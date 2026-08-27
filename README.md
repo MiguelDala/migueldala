@@ -17,41 +17,57 @@ desenvolvimento Web, Python e desenvolvimento de software.
 
 ---
 
-## ⚡ Tecnologias
+## ⚡ Tech Stack
 
-- 🌐 HTML
-- 🎨 CSS
-- ⚡ JavaScript
-- ⚛️ React
-- 🐍 Python
-- 💻 C
-- 🗄️ SQL
-- 🔧 Strapi
-- 🔌 REST API
-- 🐙 Git & GitHub
-
----
-
-## 🚀 Projetos
-
-🔹 **Projetos Web** — aplicações desenvolvidas com HTML, CSS, JavaScript e React.
-
-🔹 **Projetos Python** — desenvolvimento de aplicações e automações.
-
-🔹 **Projetos de Software** — projetos académicos e pessoais.
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55"/>
+</p>
 
 ---
 
-## 📊 GitHub
+## 🚀 Featured Projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiguelDala&show_icons=true&theme=tokyonight)
+### 🌐 Projetos Web
+
+Aplicações desenvolvidas com HTML, CSS, JavaScript e React.
+
+### 🐍 Projetos Python
+
+Aplicações, automações e projetos desenvolvidos em Python.
+
+### 📰 Agentic Newsroom
+
+Projeto de desenvolvimento avançado utilizando Python e agentes.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MiguelDala&show_icons=true&theme=tokyonight" />
+</p>
 
 ---
 
 ## 📫 Contacto
 
-💼 GitHub: [@MiguelDala](https://github.com/MiguelDala)
+<p align="center">
+  🐙 <a href="https://github.com/MiguelDala">GitHub</a>
+</p>
 
 ---
 
-### 🚀 Welcome to my code universe
+# 🚀 Welcome to my code universe
