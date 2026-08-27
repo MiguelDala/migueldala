@@ -8,10 +8,12 @@
 
 ## 🧑🏾‍💻 Sobre mim
 
-Sou estudante e gosto muito de tecnologia e programação.
-Gosto de criar paginas web, explorar novas tecnologias e transformar
-ideias em projetos reais...
+Sou estudante e desenvolvedor apaixonado por tecnologia e programação.
+Gosto de criar aplicações web, explorar novas tecnologias e transformar
+ideias em projetos reais.
 
+Atualmente estou focado em evoluir as minhas competências em
+desenvolvimento Web, Python e desenvolvimento de software.
 
 ---
 
@@ -52,5 +54,21 @@ Projeto de desenvolvimento avançado utilizando Python e agentes.
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=MiguelDala&show_icons=true&theme=tokyonight"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelDala&layout=compact&theme=tokyonight"
+    height="180"
+  />
+</p>
+
+
+
+---
 
 # 🚀 Welcome to my code universe
