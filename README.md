@@ -1,4 +1,4 @@
-# 👋🏾 Olá, eu sou o Miguel Dala
+#               👋🏾 Olá, eu sou o Miguel Dala
 
 ### 💻 Full-Stack Developer | Web & Software Development
 
