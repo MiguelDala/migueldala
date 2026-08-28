@@ -23,12 +23,10 @@
   <b>💻 Desenvolvedor Full-Stack</b>
   &nbsp; • &nbsp;
   <b>🚀 Entusiasta de Tecnologia</b>
-  &nbsp; • &nbsp;
-  <b>🧠 Aprendiz Constante</b>
-</p>
-
+  &nbsp;  &nbsp;
+   
 <p align="center">
-  Desenvolvo aplicações web modernas, exploro novas tecnologias
+  Desenvolvo páginas web modernas, exploro novas tecnologias
   e transformo ideias em soluções digitais reais.
 </p>
 
@@ -75,7 +73,6 @@
 
 </p>
 
----
 
 <h2 align="center">📱 Aplicações & Ferramentas</h2>
 
@@ -104,7 +101,7 @@
   <sub>VS Code • GitHub • Docker • WhatsApp • Instagram • ChatGPT</sub>
 </p>
 
----
+
 
 <h2 align="center">🚀 Projetos em Destaque</h2>
 
@@ -128,7 +125,7 @@
 
 </p>
 
----
+
 
 <h2 align="center">🔥 Sequência de Contribuições</h2>
 
@@ -141,7 +138,7 @@
 
 </p>
 
----
+
 
 <h2 align="center">🤝 Contactos</h2>
 
