@@ -37,7 +37,7 @@
   ⚛️ React
 </p>
 
----
+
 
 <h2 align="center">🧰 Tecnologias</h2>
 
