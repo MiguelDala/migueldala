@@ -55,14 +55,10 @@ technologies and turning ideas into functional projects.
 - ⚛️ React
 - 🗄️ Databases & SQL
 - 🔌 REST APIs
-- 🔧 Strapi / CMS
 - 🐙 Git & GitHub
 - 🐳 Docker
 
-### 💡 My goal
 
-> Build useful software, improve every day and transform ideas
-> into real projects.
 
 </td>
 
@@ -242,59 +238,7 @@ agents and asynchronous development.
 
 ---
 
-# 🔥 Contribution Streak
 
-<p align="center">
-
-<a href="https://github.com/MiguelDala">
-<img
-  src="https://streak-stats.demolab.com/?user=MiguelDala&theme=tokyonight&hide_border=true"
-  width="70%"
-/>
-</a>
-
-</p>
-
----
-
-# 📈 Activity Graph
-
-<p align="center">
-
-<a href="https://github.com/MiguelDala">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=MiguelDala&theme=tokyo-night&hide_border=true&area=true"
-  width="100%"
-/>
-
-</a>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=MiguelDala&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"
-/>
-
-</p>
-
----
-
-# 📌 Profile
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=MiguelDala&label=Profile%20Views&color=1D4ED8&style=for-the-badge">
-
-</p>
-
----
 
 <p align="center">
 
