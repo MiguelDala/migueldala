@@ -4,36 +4,36 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050816,45:111827,75:312E81,100:06B6D4&text=MIGUEL%20DALA&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20BUILDING%20THE%20FUTURE&descAlignY=60&descSize=17"
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050816,45:111827,75:312E81,100:06B6D4&text=MIGUEL%20DALA&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=DESENVOLVEDOR%20FULL-STACK%20%7C%20CONSTRUINDO%20O%20FUTURO&descAlignY=60&descSize=17"
     width="100%"
   />
 </p>
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Miguel+Dala+%F0%9F%91%8B%F0%9F%8F%BE;Full-Stack+Developer+%F0%9F%92%BB;Code.+Build.+Learn.+Repeat.+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+o+Miguel+Dala+%F0%9F%91%8B%F0%9F%8F%BE;Desenvolvedor+Full-Stack+%F0%9F%92%BB;Codifica.+Constr%C3%B3i.+Aprende.+Repete.+%F0%9F%9A%80" />
 
 </p>
 
----
 
-<h2 align="center">⚡ About Me</h2>
+
+<h2 align="center">⚡ Sobre Mim</h2>
 
 <p align="center">
-  <b>💻 Full-Stack Developer</b>
+  <b>💻 Desenvolvedor Full-Stack</b>
   &nbsp; • &nbsp;
-  <b>🚀 Technology Enthusiast</b>
+  <b>🚀 Entusiasta de Tecnologia</b>
   &nbsp; • &nbsp;
-  <b>🧠 Lifelong Learner</b>
+  <b>🧠 Aprendiz Constante</b>
 </p>
 
 <p align="center">
-  I build modern web applications, explore new technologies
-  and transform ideas into real digital solutions.
+  Desenvolvo aplicações web modernas, exploro novas tecnologias
+  e transformo ideias em soluções digitais reais.
 </p>
 
 <p align="center">
-  🌐 Web Development &nbsp; • &nbsp;
+  🌐 Desenvolvimento Web &nbsp; • &nbsp;
   🐍 Python &nbsp; • &nbsp;
   ⚡ JavaScript &nbsp; • &nbsp;
   ⚛️ React
@@ -41,7 +41,7 @@
 
 ---
 
-<h2 align="center">🧰 Tech Stack</h2>
+<h2 align="center">🧰 Tecnologias</h2>
 
 <p align="center">
 
@@ -77,7 +77,7 @@
 
 ---
 
-<h2 align="center">📱 Applications & Tools</h2>
+<h2 align="center">📱 Aplicações & Ferramentas</h2>
 
 <p align="center">
 
@@ -106,49 +106,31 @@
 
 ---
 
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center">🚀 Projetos em Destaque</h2>
 
 <p align="center">
 
 <a href="https://github.com/MiguelDala">
-<img src="https://img.shields.io/badge/🌐%20WEB%20PROJECTS-111827?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/🌐%20PROJETOS%20WEB-111827?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </a>
 
 <a href="https://github.com/MiguelDala">
-<img src="https://img.shields.io/badge/🐍%20PYTHON%20PROJECTS-111827?style=for-the-badge&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/🐍%20PROJETOS%20PYTHON-111827?style=for-the-badge&logo=python&logoColor=3776AB"/>
 </a>
 
 <a href="https://github.com/MiguelDala">
-<img src="https://img.shields.io/badge/📰%20AGENTIC%20NEWSROOM-111827?style=for-the-badge&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/📰%20REDAÇÃO%20AGÊNTICA-111827?style=for-the-badge&logo=python&logoColor=3776AB"/>
 </a>
 
 <a href="https://github.com/MiguelDala">
-<img src="https://img.shields.io/badge/🛡️%20BLUE%20TEAM-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/🛡️%20EQUIPA%20AZUL-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<p align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=MiguelDala&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-  height="180"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelDala&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-  height="180"
-/>
-
-</p>
-
----
-
-<h2 align="center">🔥 Contribution Streak</h2>
+<h2 align="center">🔥 Sequência de Contribuições</h2>
 
 <p align="center">
 
@@ -161,33 +143,7 @@
 
 ---
 
-<h2 align="center">📈 Activity</h2>
-
-<p align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=MiguelDala&theme=tokyo-night&hide_border=true&area=true"
-  width="100%"
-/>
-
-</p>
-
----
-
-<h2 align="center">🏆 Achievements</h2>
-
-<p align="center">
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=MiguelDala&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"
-  width="90%"
-/>
-
-</p>
-
----
-
-<h2 align="center">🤝 Connect</h2>
+<h2 align="center">🤝 Contactos</h2>
 
 <p align="center">
 
@@ -196,11 +152,11 @@
 </a>
 
 <a href="https://www.instagram.com/">
-<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-Seguir-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://www.whatsapp.com/">
-<img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<img src="https://img.shields.io/badge/WhatsApp-Contactar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
 </p>
@@ -209,13 +165,13 @@
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=MiguelDala&label=PROFILE%20VIEWS&color=06B6D4&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=MiguelDala&label=VISITAS%20AO%20PERFIL&color=06B6D4&style=for-the-badge"/>
 
 </p>
 
 <p align="center">
 
-<b>⚡ Code. Build. Learn. Repeat. 🚀</b>
+<b>⚡ Codifica. Constrói. Aprende. Repete. 🚀</b>
 
 </p>
 
