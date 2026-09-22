@@ -14,8 +14,7 @@
 </div>
 🧑🏾‍💻 $ whoami
 <img align="right" width="380" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-┌──(miguel㉿developer)-[~/portfolio]
-└─$ whoami
+
 
 Miguel Dala
 Full-Stack Developer
@@ -76,26 +75,11 @@ Mentalidade:
 <br><br>
 <img src="https://streak-stats.demolab.com/?user=MiguelDala&theme=tokyonight&hide_border=true" width="70%"/>
 </div>
-🏆 ACHIEVEMENTS
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MiguelDala&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=6"/>
-</div>
-📈 ACTIVITY
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MiguelDala&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-</div>
-🐍 CONTRIBUTION_ENGINE
-<div align="center">
-<img src="https://raw.githubusercontent.com/MiguelDala/MiguelDala/output/github-contribution-grid-snake-dark.svg" width="95%"/>
-<br>
+
 Every contribution tells a story.
 Every commit is another step forward.
 </div>
-🚀 FEATURED_PROJECTS
-<div align="center">
-<a href="https://github.com/MiguelDala"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=MiguelDala&repo=portfolio.miguel&theme=tokyonight&hide_border=true"/> </a>
-<a href="https://github.com/Gcango/equipa2_resolva"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gcango&repo=equipa2_resolva&theme=tokyonight&hide_border=true"/> </a>
-</div>
+
 🧠 DEVELOPER_MINDSET
 <div align="center">
               ┌─────────────────────┐
