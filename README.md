@@ -1,7 +1,7 @@
-<!-- ========================================================= -->
-<!-- MIGUEL DALA -->
-<!-- FULL-STACK DEVELOPER -->
-<!-- ========================================================= -->
+# Miguel Dala
+
+### Full-Stack Developer | AI | Automation | Cybersecurity
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=MIGUEL%20DALA&fontSize=65&fontColor=ffffff&fontAlignY=35&desc=FULL-STACK%20DEVELOPER%20%7C%20AI%20%7C%20AUTOMATION%20%7C%20CYBERSECURITY&descAlignY=58&descSize=16&animation=fadeIn&color=0:020617,30:0F172A,60:312E81,100:06B6D4" width="100%"/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=850&lines=Hello%2C+I'm+Miguel+Dala+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;Building+modern+web+applications+%F0%9F%9A%80;Exploring+Artificial+Intelligence+%F0%9F%A4%96;Automation+%7C+Software+Architecture+%7C+Cybersecurity;Code.+Build.+Learn.+Repeat.+%E2%9A%A1" />
