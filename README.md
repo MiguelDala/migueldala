@@ -80,60 +80,6 @@ Every contribution tells a story.
 Every commit is another step forward.
 </div>
 
-🧠 DEVELOPER_MINDSET
-<div align="center">
-              ┌─────────────────────┐
-              │       IDEA          │
-              └──────────┬──────────┘
-                         ↓
-              ┌─────────────────────┐
-              │       CODE          │
-              └──────────┬──────────┘
-                         ↓
-              ┌─────────────────────┐
-              │       TEST          │
-              └──────────┬──────────┘
-                         ↓
-              ┌─────────────────────┐
-              │       DEBUG         │
-              └──────────┬──────────┘
-                         ↓
-              ┌─────────────────────┐
-              │       DEPLOY        │
-              └──────────┬──────────┘
-                         ↓
-                    🚀 REPEAT
-</div>
-📚 JOURNEY
-2022 ───────► Programming Fundamentals
-                  │
-                  ├── C
-                  ├── Logic
-                  └── Data Structures
-                           │
-2023 ───────► Python & Automation
-                           │
-2024 ───────► Full-Stack Development
-                  │
-                  ├── JavaScript
-                  ├── React
-                  ├── Databases
-                  └── Web Development
-                           │
-2025 ───────► Advanced Projects
-                           │
-                  ├── APIs
-                  ├── Docker
-                  ├── Git
-                  └── CMS
-                           │
-2026 ───────► 🚀 BUILDING THE FUTURE
-                  │
-                  ├── Artificial Intelligence
-                  ├── Automation
-                  ├── Software Architecture
-                  └── Cybersecurity
-💬 DEVELOPER_QUOTE
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </div>
