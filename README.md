@@ -89,7 +89,7 @@ If you like my projects, consider giving them a ⭐
 <br>
 <a href="https://www.buymeacoffee.com/"> <img src="https://img.shields.io/badge/☕%20Buy%20Me%20A%20Coffee-Support%20My%20Work-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black"/> </a>
 </div>
-🌐 CONNECT_WITH_ME
+
 <div align="center">
 <a href="https://github.com/MiguelDala"> <img src="https://img.shields.io/badge/GitHub-MiguelDala-181717?style=for-the-badge&logo=github"/> </a>
 <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-Miguel%20Dala-0A66C2?style=for-the-badge&logo=linkedin"/> </a>
