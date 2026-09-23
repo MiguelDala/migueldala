@@ -120,28 +120,6 @@ IMPROVE
 
 </div>
 
-## `01` — ABOUT ME
-
-<img align="right" width="330" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
-
-Hi, I'm **Miguel Dala** 👋🏾
-
-I'm a **Full-Stack Developer** from Portugal 🇵🇹 focused on building modern applications, automation systems and intelligent software.
-
-I enjoy understanding **how systems work**, designing solutions and turning ideas into real products.
-
-```text
-┌─────────────────────────────────────────────┐
-│                                             │
-│   Developer                                 │
-│   ├── Web Development                       │
-│   ├── Artificial Intelligence               │
-│   ├── Automation                            │
-│   ├── Software Architecture                 │
-│   └── Cybersecurity                         │
-│                                             │
-└─────────────────────────────────────────────┘
-```
 
 <br clear="right"/>
 
