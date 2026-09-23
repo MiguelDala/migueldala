@@ -306,7 +306,3 @@ Building Intelligent Software
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:7C3AED,50:581C87,100:050505"/>
-
-</div>
-
